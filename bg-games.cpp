@@ -1,3 +1,25 @@
+/**
+Porject Title: Bangabandhu Game
+Project Description :
+
+    It is a very simple project that have these functionality,
+    (i)     Login
+    (ii)    Registration
+    (iii)   Forgat password
+    (iv)    Number-Gussing Game
+    (v)     Hangman Game
+
+Group Member :
+                Name                    ID
+    (i)     Merja Shourov           22235103082
+    (ii)    Md. Faysal Islam Fahad  22235103133
+    (iii)   Md. Rifat Hossain       22235103066
+    (iv)    Nusrat Jahan Tanha      22235103069
+    (v)     Md. Sheikh Sayed        22235103161
+ 
+*/
+
+
 #include <bits/stdc++.h>
 #include <windows.h>
 // # include <unistd.h> // for linux
@@ -43,7 +65,7 @@ int main()
 void home_page()
 {
     system("cls");
-    cout << "\t ===== HOME PAGE ====== \n\n";
+    cout << "\t ===== BANGABANDHU GAMES ====== \n\n";
     cout << "\t | ENTER 1 FOR REGISTRATION     \n";
     cout << "\t | ENTER 2 FOR LOGIN         \n";
     cout << "\t | ENTER 3 IF YOU FORGOT PASSWORD\n";
@@ -739,3 +761,5 @@ void exit()
 {
     exit(0); // return
 }
+
+// End our project

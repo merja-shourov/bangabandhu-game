@@ -1,5 +1,3 @@
-Rifat abcd 066
 Aladdin abcd 082
-Tanha abcd 069
-Sayed abcd 161
-Faysal abcd 133
+Rifat abcd 066
+

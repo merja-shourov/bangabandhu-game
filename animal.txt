@@ -1,2 +1,12 @@
 lion
 tiger
+leopard
+panther
+monkey
+dokey
+sheep
+blacksheep
+snake
+python
+elephent
+beer
